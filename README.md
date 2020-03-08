@@ -30,7 +30,7 @@ export function getAMap() {
     <div id="container"></div>
   </div>
 </template>
-`<script>`
+<script>
 import { getAMap } from '@/utils'
 export default {
   mounted() {
@@ -107,7 +107,7 @@ export default {
     }
   }
 }
-`</script>`
+</script>
 
 <style>
 #container {
