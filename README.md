@@ -24,7 +24,7 @@ export function getAMap() {
 
 ## 使用
 
-```javascript
+```html
 <template>
   <div id="app">
     <div id="container"></div>
